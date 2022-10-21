@@ -1,9 +1,12 @@
+<a href="https://www.lambdatest.com">
 <p align="center">
   <img src="https://www.lambdatest.com/blog/wp-content/uploads/2020/08/LambdaTest-320-180.png" />
 </p>
+  </a>
 <h1 align="center">Test At Scale</h1>
-
+<a href="https://www.lambdatest.com">
 ![N|Solid](https://www.lambdatest.com/resources/images/TAS_banner.png)
+  </a>
 
 <p align="center">
   <b>Test Smarter, Release Faster with test-at-scale.</b>
